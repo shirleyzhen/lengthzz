@@ -111,6 +111,6 @@ int main(){
     }
     
     output.close();
-    system("pause");
+    //system("pause");
     return 0;    
 }
